@@ -1,0 +1,111 @@
+[2021-08-12 23:56:36.402] [exthost] [info] extension host started
+[2021-08-12 23:56:36.407] [exthost] [error] Error: EEXIST: file already exists, open '/home/erwin/.vscode-server/data/User/workspaceStorage/764849373eea3c9155e94af4412eddef/vscode.lock'
+[2021-08-12 23:56:36.427] [exthost] [error] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at v (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:86:92641)
+    at async l (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:86:92282)
+    at async A._getWorkspaceStorageURI (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:86:90927)
+    at async A._getOrCreateWorkspaceStoragePath (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:86:29616)
+[2021-08-12 23:56:36.427] [exthost] [info] Lock '/home/erwin/.vscode-server/data/User/workspaceStorage/764849373eea3c9155e94af4412eddef/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-08-12 23:56:36.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-12 23:56:36.460] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/debug-auto-launch/dist/extension
+[2021-08-12 23:56:36.473] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-12 23:56:36.474] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/git/dist/main
+[2021-08-12 23:56:36.605] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-08-12 23:56:36.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-08-12 23:56:36.828] [exthost] [error] SyntaxError: Unexpected end of JSON input
+	at JSON.parse (<anonymous>)
+	at v (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:86:92641)
+	at async P (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:86:92899)
+	at async A._getWorkspaceStorageURI (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:86:90927)
+	at async A._getOrCreateWorkspaceStoragePath (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:86:29616)
+[2021-08-12 23:56:36.828] [exthost] [info] Lock '/home/erwin/.vscode-server/data/User/workspaceStorage/764849373eea3c9155e94af4412eddef/vscode.lock': Could not read pid of lock holder.
+[2021-08-12 23:56:36.828] [exthost] [info] Lock '/home/erwin/.vscode-server/data/User/workspaceStorage/764849373eea3c9155e94af4412eddef/vscode.lock': Deleting a stale lock.
+[2021-08-12 23:56:36.829] [exthost] [info] Lock '/home/erwin/.vscode-server/data/User/workspaceStorage/764849373eea3c9155e94af4412eddef/vscode.lock': Lock acquired.
+[2021-08-12 23:56:37.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-12 23:56:37.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/github/dist/extension.js
+[2021-08-12 23:56:37.064] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-12 23:56:37.064] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-12 23:56:37.288] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-12 23:56:37.288] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-12 23:56:37.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-12 23:56:37.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-12 23:56:37.311] [exthost] [info] eager extensions activated
+[2021-08-12 23:57:47.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-08-12 23:57:47.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-08-13 01:25:07.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-13 01:25:07.137] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/configuration-editing/dist/configurationEditingMain
+[2021-08-13 01:25:07.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-13 01:25:07.143] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-08-13 01:25:07.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-13 01:25:07.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/typescript-language-features/dist/extension
+[2021-08-13 01:25:33.021] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-08-13 01:25:33.022] [exthost] [error] TypeError: Cannot read property 'find' of undefined
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/emmet/dist/node/emmetNodeMain.js:1:178734)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/emmet/dist/node/emmetNodeMain.js:1:177186)
+	at z.provideCompletionItems (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:85:175191)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:85:195478
+	at We._withAdapter (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:85:185649)
+	at We.$provideCompletionItems (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:85:195454)
+	at h._doInvokeHandler (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:12819)
+	at h._invokeHandler (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:12503)
+	at h._receiveRequest (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:11107)
+	at h._receiveOneMessage (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:9943)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:8039
+	at d.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:57:1712)
+	at c.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:15825)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:104:30060
+	at d.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:57:1712)
+	at c.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:15825)
+	at r._receiveMessage (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:21091)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:17969
+	at d.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:57:1712)
+	at v.acceptChunk (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:13186)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:12534
+	at d.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:57:1712)
+	at P._acceptChunk (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:104:19230)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:104:15643
+	at Socket.w (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:104:13218)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-08-13 01:26:30.823] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-08-13 01:26:30.823] [exthost] [error] TypeError: Cannot read property 'find' of undefined
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/emmet/dist/node/emmetNodeMain.js:1:178734)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/emmet/dist/node/emmetNodeMain.js:1:177186)
+	at z.provideCompletionItems (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:85:175191)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:85:195478
+	at We._withAdapter (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:85:185649)
+	at We.$provideCompletionItems (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:85:195454)
+	at h._doInvokeHandler (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:12819)
+	at h._invokeHandler (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:12503)
+	at h._receiveRequest (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:11107)
+	at h._receiveOneMessage (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:9943)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:89:8039
+	at d.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:57:1712)
+	at c.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:15825)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:104:30060
+	at d.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:57:1712)
+	at c.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:15825)
+	at r._receiveMessage (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:21091)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:17969
+	at d.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:57:1712)
+	at v.acceptChunk (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:13186)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:65:12534
+	at d.fire (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:57:1712)
+	at P._acceptChunk (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:104:19230)
+	at /home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:104:15643
+	at Socket.w (/home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/out/vs/server/remoteExtensionHostProcess.js:104:13218)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-08-13 01:37:07.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-08-13 01:37:07.748] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-08-13 01:38:12.843] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.live-sass {"startup":false,"extensionId":{"value":"ritwickdey.live-sass","_lower":"ritwickdey.live-sass"},"activationEvent":"onLanguage:scss"}
+[2021-08-13 01:38:12.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/erwin/.vscode-server/extensions/ritwickdey.live-sass-3.0.0/out/src/extension
+[2021-08-13 02:25:08.778] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-08-13 02:25:08.779] [exthost] [info] Lock '/home/erwin/.vscode-server/data/User/workspaceStorage/764849373eea3c9155e94af4412eddef/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.

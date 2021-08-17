@@ -1,0 +1,438 @@
+Compiling Sass/Scss Files: 
+/home/erwin/kominfo/style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after ".header": expected "{", was ""
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> .header
+   ^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after ".header": expected "{", was ""
+        on line 2 of sass/home/erwin/kominfo/style.scss
+>> 
+   ^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after ".header": expected "{", was ""
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> .header
+   ^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after ".header{": expected "}", was "."
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> .header{
+
+   --------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after ".header{": expected "}", was ".name"
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> .header{
+
+   --------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: property "font" must be followed by a ':'
+        on line 4 of sass/home/erwin/kominfo/style.scss
+>>         font
+
+   --------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: style declaration must contain a value
+        on line 4 of sass/home/erwin/kominfo/style.scss
+>>         font-size: ;
+
+   -----------------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after "    }": expected "}", was "."
+        on line 5 of sass/home/erwin/kominfo/style.scss
+>>     }
+
+   -----^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after "    }": expected "}", was ".pro"
+        on line 5 of sass/home/erwin/kominfo/style.scss
+>>     }
+
+   -----^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after "    }": expected "}", was ".profession"
+        on line 5 of sass/home/erwin/kominfo/style.scss
+>>     }
+
+   -----^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: property "fo" must be followed by a ':'
+        on line 7 of sass/home/erwin/kominfo/style.scss
+>>         fo
+
+   --------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: property "font" must be followed by a ':'
+        on line 7 of sass/home/erwin/kominfo/style.scss
+>>         font
+
+   --------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: style declaration must contain a value
+        on line 7 of sass/home/erwin/kominfo/style.scss
+>>         font-size: ;
+
+   -----------------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: style declaration must contain a value
+        on line 7 of sass/home/erwin/kominfo/style.scss
+>>         font-size: ;
+
+   -----------------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: style declaration must contain a value
+        on line 7 of sass/home/erwin/kominfo/style.scss
+>>         font-size: ;
+
+   -----------------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Not Watching...
+--------------------
+Compiling Sass/Scss Files: 
+/home/erwin/kominfo/style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after ".header{": expected "}", was ".hed"
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> .header{.hed
+
+   -------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after ".header{": expected "}", was ".header"
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> .header{.header
+
+   -------^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after "header": expected "{", was ""
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> header
+   ^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after "header": expected "{", was ""
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> header
+   ^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after ".header": expected "{", was ""
+        on line 1 of sass/home/erwin/kominfo/style.scss
+>> .header
+   ^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
+Not Watching...
+--------------------
+Compiling Sass/Scss Files: 
+/home/erwin/kominfo/style.scss
+--------------------
+Generated :
+/home/erwin/kominfo/style.css
+/home/erwin/kominfo/style.css.map
+--------------------
+Watching...
+--------------------
